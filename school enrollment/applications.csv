@@ -1,0 +1,5 @@
+StudentID,OpportunityID,Status,AppliedAt,AppealCount,AppealMessage
+U2310001A,1,ACCEPTED,2025-10-17T23:26:23.753240400,0,
+U2310002B,5,UNSUCCESSFUL,2025-10-22T02:33:24.413085500,0,
+U2310002B,7,UNSUCCESSFUL,2025-10-23T21:46:08.234628,1,APPEAL REJECTED
+U2310002B,9,APPEALING,2025-10-23T21:47:22.825517700,1,"I am writing to express my enthusiastic interest in your internship program. As a dedicated student of computer science, I possess a strong foundation in data analysis and Python programming. I am not simply seeking experience; I am eager to apply my academic knowledge to real-world challenges and contribute immediate value to your team’s projects. I pride myself on being a rapid learner, highly motivated, and committed to operational excellence. This internship represents a perfect opportunity to align my dedication with [Company Name]’s innovative work in the tech sector. I am ready to immerse myself and work diligently to support your success. Thank you for considering my application."

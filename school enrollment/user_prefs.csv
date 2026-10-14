@@ -1,0 +1,6 @@
+role,userKey,view,filter_col,filter_kw,sort_col
+STAFF,sng001,staff_opps,,,
+STUDENT,U2310002B,student_internships,,,
+REP,samsung@gmail.com,rep_opps,,,
+STUDENT,U2310001A,student_internships,,,
+REP,apple@gmail.com,rep_opps,,,LEVEL

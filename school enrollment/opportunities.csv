@@ -1,0 +1,10 @@
+ID,CreatorEmail,CompanyName,Title,Description,Level,PreferredMajor,OpeningDate,ClosingDate,Slots,Confirmed,Status
+1,apple@gmail.com,Apple,Sales Assistant,To facilitate ground sales,BASIC,COMPUTER SCIENCE,17/10/2025,17/11/2025,1,1,FILLED
+2,apple@gmail.com,Apple,Sales Support,Provide ground support,BASIC,,1/10/2025,30/11/2025,2,0,APPROVED
+3,apple@gmail.com,Apple,Sales Support,Support ground sales,INTERMEDIATE,INFORMATION ENGINEERING & MEDIA,16/10/2025,16/10/2026,10,0,PENDING
+4,apple@gmail.com,Apple,Software Developer,Develop Siri,INTERMEDIATE,DATA SCIENCE & AI,18/9/2025,18/10/2025,5,0,APPROVED
+5,apple@gmail.com,Apple,AI Researcher,Develop Apple Intelligence,ADVANCED,DATA SCIENCE & AI,25/9/2025,25/11/2026,10,0,APPROVED
+6,samsung@gmail.com,Samsung,AI Researcher,AI Training for Bixby,ADVANCED,COMPUTER SCIENCE,22/10/2025,22/1/2026,5,0,PENDING
+7,samsung@gmail.com,Samsung,Junior Data Analyst,Helps to parse big data,BASIC,DATA SCIENCE & AI,23/10/2025,23/11/2025,10,0,APPROVED
+8,samsung@gmail.com,Samsung,Senior Data Analyst,Helps to monitor rogue data points,ADVANCED,DATA SCIENCE & AI,23/10/2025,23/12/2025,10,0,PENDING
+9,samsung@gmail.com,Samsung,Data Researcher,ADVANCED,ADVANCED,DATA SCIENCE & AI,23/10/2025,23/1/2026,10,0,APPROVED
